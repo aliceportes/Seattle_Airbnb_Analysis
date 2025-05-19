@@ -1,7 +1,0 @@
-*.sql linguist-language=SQL
-
-
-*.png linguist-documentation
-*.pbix linguist-documentation
-*.csv linguist-documentation
-*.txt linguist-documentation
